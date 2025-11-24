@@ -1,0 +1,5 @@
+My plan with this is to make a To-do-task type of website.
+I would like the landing page to give u the options between viewing tasks or creating one with a welcome to the page
+When creating a task there must be some sort of name, description and setting a due date most likely using input type: date
+when viewing tasks I think it would be convenient to display the tasks in order based on due date
+and in terms of editing and deleting i think a simple edit and delete button on the task view page should be sufficent
