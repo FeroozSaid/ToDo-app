@@ -2,20 +2,20 @@
 
 A simple todo application for INFR3120 Assignment 3.
 
-## Live Demo
+ Live Demo
 https://todo-app-tef7.onrender.com/
 
-## GitHub Repository
+ GitHub Repository
 https://github.com/FeroozSaid/ToDo-app
 
-## Features
+ Features
 - Add, view, edit, and delete tasks
 - Set due dates for tasks
 - Mark tasks as complete/incomplete
 - Delete confirmation
 - Responsive design
 
-## Tech Used
+# Used
 - Node.js + Express
 - MongoDB
 - EJS + Bootstrap
